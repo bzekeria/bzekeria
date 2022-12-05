@@ -5,7 +5,7 @@
 - :email: Feel free to email me at [bzekeria@gmail.com](mailto:bzekeria@gmail.com)
 - :globe_with_meridians: [bzekeria.github.io](https://bzekeria.github.io)
 
-![Baraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzekeria&theme=dark&show_icons=true)
+<!--![Baraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzekeria&theme=dark&show_icons=true)--> 
 
 <!---
 bzekeria/bzekeria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
