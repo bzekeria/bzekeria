@@ -3,7 +3,7 @@
 - 👀 I’m looking for data analyst/data scientist related roles in the tech sector
 - :computer: Some of my technical skills are *Python*, *R*, and *SQL*
 - :email: Feel free to email me at [bzekeria@gmail.com](mailto:bzekeria@gmail.com)
-- :globe_with_meridians: [bzekeria.github.io](https://bzekeria.github.io)
+<!--!- :globe_with_meridians: [bzekeria.github.io](https://bzekeria.github.io)--> 
 
 <!--![Baraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzekeria&theme=dark&show_icons=true)--> 
 
